@@ -211,25 +211,12 @@ CURRENT     →  latency-optimization  llm-verification
 ## `$ github --stats`
 
 <p align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hrshjha&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=86400" />
-  
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshjha&layout=compact&hide_border=true&theme=github_dark&cache_seconds=86400" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=hrshjha&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-
-  <img src="https://streak-stats.demolab.com?user=hrshjha&theme=github-dark&hide_border=true&cache_seconds=86400" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshjha&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
-<p align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=hrshjha&theme=darkhub&no-frame=true&margin-w=6&column=6" />
-
-</p>
-
 ---
 
 ## `$ cat looking_for.txt`
