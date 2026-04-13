@@ -210,21 +210,25 @@ CURRENT     →  latency-optimization  llm-verification
 
 ## `$ github --stats`
 
-<div align="center">
+<p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hrshjha&show_icons=true&hide_border=true&bg_color=040810&title_color=00ff88&text_color=c9d8e8&icon_color=ffc857&cache_seconds=86400" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshjha&layout=compact&hide_border=true&bg_color=040810&title_color=00ff88&text_color=c9d8e8&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hrshjha&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=86400" />
+  
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshjha&layout=compact&hide_border=true&theme=github_dark&cache_seconds=86400" />
 
-<br/><br/>
+</p>
 
-<img src="https://github-readme-streak-stats.demolab.com?user=hrshjha&hide_border=true&background=040810&ring=00ff88&fire=ffc857&currStreakLabel=00ff88&sideLabels=4a6278&dates=4a6278&stroke=0f2035&currStreakNum=c9d8e8&sideNums=c9d8e8" />
+<p align="center">
 
-<br/><br/>
+  <img src="https://streak-stats.demolab.com?user=hrshjha&theme=github-dark&hide_border=true&cache_seconds=86400" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hrshjha&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
-</div>
+<p align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=hrshjha&theme=darkhub&no-frame=true&margin-w=6&column=6" />
+
+</p>
 
 ---
 
