@@ -211,11 +211,7 @@ CURRENT     →  latency-optimization  llm-verification
 ## `$ github --stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrshjha&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshjha&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=hrshjha&theme=github-dark&hide_border=true" />
 </p>
 ---
 
