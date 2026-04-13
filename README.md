@@ -156,13 +156,13 @@ LLM Output → Claim Decomposition → NLI Verification → Scoring
 
 ## `> github stats`
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hrshjha&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=030a12&title_color=00e676&text_color=cdd9e5&icon_color=ffab40&cache_seconds=86400" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrshjha&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=030a12&title_color=00e676&text_color=cdd9e5&icon_color=ffab40)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrshjha&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=030a12&title_color=00e676&text_color=cdd9e5)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshjha&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=030a12&title_color=00e676&text_color=cdd9e5&cache_seconds=86400" />
+</p>
 
 ---
 
