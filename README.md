@@ -4,7 +4,27 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2600&pause=900&color=00FF8C&center=true&vCenter=true&width=680&lines=harsh+jha;ai+systems+engineer;builds+for+production%2C+not+demos" alt="Typing SVG" />
+<svg viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="200" fill="#0E0D0B"/>
+  <rect x="20" y="20" width="860" height="160" fill="none" stroke="#B08D46" stroke-width="1" opacity="0.45"/>
+
+  <text x="50" y="46" font-family="'Courier New', monospace" font-size="11" letter-spacing="3" fill="#B08D46">PROFILE</text>
+
+  <text x="48" y="102" font-family="Georgia, 'Times New Roman', serif" font-size="44" fill="#EDE7DA">Harsh Jha</text>
+
+  <text x="50" y="132" font-family="'Courier New', monospace" font-size="12" letter-spacing="2" fill="#8A8578">AI SYSTEMS ENGINEER — EVIDENCE OVER CONFIDENCE</text>
+
+  <!-- signature mark: noise resolving into signal -->
+  <rect x="620" y="132" width="8" height="18" fill="#8A8578" opacity="0.35"/>
+  <rect x="634" y="108" width="8" height="42" fill="#8A8578" opacity="0.4"/>
+  <rect x="648" y="138" width="8" height="12" fill="#8A8578" opacity="0.35"/>
+  <rect x="662" y="95"  width="8" height="55" fill="#8A8578" opacity="0.5"/>
+  <rect x="676" y="122" width="8" height="28" fill="#8A8578" opacity="0.55"/>
+  <rect x="690" y="104" width="8" height="46" fill="#B08D46" opacity="0.7"/>
+  <rect x="704" y="112" width="8" height="38" fill="#B08D46" opacity="0.85"/>
+  <rect x="718" y="109" width="8" height="41" fill="#B08D46" opacity="0.95"/>
+  <rect x="732" y="110" width="8" height="40" fill="#B08D46" opacity="1"/>
+</svg>
 
 <br/>
 
