@@ -1,307 +1,115 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:050816,55:101C3B,100:7C3AED&text=HARSH%20JHA&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=AI%20SYSTEMS%20ENGINEER%20%C2%B7%20RELIABLE%20INTELLIGENCE&descAlignY=67&descSize=15&animation=fadeIn" alt="Harsh Jha" />
+# Harsh Kumar Jha
 
-<br />
+### AI/ML Engineer · Systems Builder · ECE Undergraduate
 
-<a href="https://github.com/HrshJha">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3200&pause=1000&color=00F5A0&center=true&vCenter=true&width=820&lines=production+AI+%2F%2F+backend+systems+%2F%2F+ML+infrastructure;verification+over+confidence+%E2%80%94+evidence+over+assumptions;building+systems+that+still+work+after+the+demo" alt="Current focus" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/HrshJha"><img src="https://img.shields.io/badge/GitHub-HrshJha-050816?style=flat-square&logo=github&logoColor=00F5A0&labelColor=050816&color=00F5A0" alt="GitHub" /></a>
-<a href="https://contactharsh.in"><img src="https://img.shields.io/badge/Portfolio-contactharsh.in-050816?style=flat-square&logo=vercel&logoColor=00D9FF&labelColor=050816&color=00D9FF" alt="Portfolio" /></a>
-<a href="https://x.com/m_eharsh"><img src="https://img.shields.io/badge/X-@m__eharsh-050816?style=flat-square&logo=x&logoColor=FFFFFF&labelColor=050816&color=7C3AED" alt="X" /></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-hrshjha.vercel.app-4FA8E8?style=flat-square)](https://hrshjha.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hrshjha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrshjha/)
+[![X](https://img.shields.io/badge/X-@m__eharsh-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/m_eharsh)
+[![GitHub](https://img.shields.io/badge/GitHub-HrshJha-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HrshJha)
 
 </div>
 
-<br />
+---
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ HARSH.OS                                                    STATUS: ONLINE   │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ Focus     Production AI · Backend Systems · LLM Evaluation                  │
-│ Building  Systems that are observable, testable, and useful in practice    │
-│ Belief    A model response is a proposal — verification makes it reliable   │
-└─────────────────────────────────────────────────────────────────────────────┘
+## About
 
-> whoami
+I build AI systems that hold up past the demo — evaluation pipelines, multi-agent architectures, and the infrastructure around models that makes their output verifiable rather than assumed.
 
-I'm Harsh — an engineering-focused builder working where backend systems,
-machine learning, and intelligent products meet.
+B.Tech in Electronics and Communication Engineering at Maharaja Surajmal Institute of Technology, Delhi (Class of 2029, CGPA 8.59). My work sits at the intersection of AI safety, evaluation research, and applied machine learning systems, backed by internship experience in AI/ML and R&D roles.
 
-I care about the layer around the model: APIs, retrieval, evaluation,
-asynchronous workflows, validation, security boundaries, observability,
-and the infrastructure that keeps a system useful after the demo.
+Outside of engineering, I work in cinematic photography and filmmaking, which shapes how I think about pacing, structure, and detail in the products I build.
 
-Build systems that earn trust through evidence, not presentation.
+Currently seeking AI/ML internships, research collaborations, and open-source contributions in evaluation, retrieval, and multi-agent systems.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-currently_exploring:
-  - System Design
-  - Distributed Systems
-  - MLOps
-  - Kubernetes
-  - Advanced LLM Systems
+## Experience
 
-</td>
-<td width="50%" valign="top">
+| Period | Role | Focus |
+|---|---|---|
+| 2026 | AI/ML Intern, DomAIyn Labs LLP | AI safety, model evaluation, retrieval-augmented systems |
+| 2025 | R&D Intern, MathonGo | Structured educational datasets, AI-assisted content QA |
 
-operating_rules:
-  - Verify before trusting
-  - Measure before optimizing
-  - Automate repeated work
-  - Keep failure paths explicit
+---
 
-</td>
-</tr>
-</table>
+## Featured Work
 
-> architecture --mental_model
+**AppForge AI** — A five-stage natural-language-to-application compiler: intent extraction, system design, schema generation, validation and repair, and execution verification. Built on Next.js and FastAPI, deployed across Vercel and Railway.
+[github.com/HrshJha/AppForge-AI](https://github.com/HrshJha/AppForge-AI)
 
-flowchart LR
-  INTENT["Intent"] --> UX["Interfaces\nNext.js · React"]
-  UX --> API["Services\nFastAPI · Node.js · REST"]
-  API --> AI["Intelligence\nLLMs · Transformers · ML"]
-  AI --> TRUST["Trust\nEvaluation · Validation · Guardrails"]
-  TRUST --> STATE["State\nPostgreSQL · Supabase · Redis"]
-  STATE --> OPS["Operations\nDocker · Linux · CI/CD"]
+**Hallucination Hunter** — Claim-level factual consistency detection for LLM output. Extracts individual claims, retrieves supporting evidence, and applies NLI-based verification (DeBERTa-v3, XGBoost, spaCy) to produce calibrated confidence scores.
+[github.com/HrshJha/Hallucination-Hunter](https://github.com/HrshJha/Hallucination-Hunter)
 
-  classDef base fill:#0B1228,stroke:#3B4A78,color:#F8FAFC,stroke-width:1px;
-  classDef accent fill:#4C1D95,stroke:#00F5A0,color:#FFFFFF,stroke-width:1.5px;
-  class UX,API,STATE,OPS base;
-  class AI,TRUST accent;
+**ModelVet** — An AI model supply-chain due-diligence copilot. A LangGraph multi-agent pipeline where parallel research agents examine license, benchmark, and community signals, followed by an advocate/skeptic debate stage and a final judged verdict. Python, FastAPI, pgvector, Groq.
 
-Core stack
+**FrameOS** — An event-driven media orchestration platform connecting research, scripting, voice, rendering, publishing, and analytics into a single content pipeline. Next.js, PostgreSQL, Redis, autonomous agents.
+[github.com/HrshJha/FrameOS](https://github.com/HrshJha/FrameOS)
+
+**AgriMind** — A voice-first crop recommendation assistant for low-resource settings, using Whisper for speech input and a CPU-efficient model for localized guidance. Python, FastAPI, scikit-learn.
+[github.com/HrshJha/AgriMind](https://github.com/HrshJha/AgriMind)
+
+**Resume Intelligence** — Resume analysis for hiring workflows: AI-assisted parsing, ATS scoring, skill extraction, semantic matching, and candidate ranking.
+[github.com/HrshJha/resume-checker](https://github.com/HrshJha/resume-checker)
+
+---
+
+## Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Backend & Data**
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Frontend & Tools**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,fastapi,nodejs,nextjs,react,postgres,supabase,redis,mongodb,docker,git,github,linux&theme=dark&perline=16" alt="Core technologies" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HrshJha&show_icons=true&hide_border=true&theme=default" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrshJha&layout=compact&hide_border=true&theme=default" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HrshJha&hide_border=true" />
 
 </div>
 
-Layer
+---
 
-Working with
+## Currently
 
-Languages
+- Building multi-agent evaluation pipelines and AI safety tooling
+- Refining a personal portfolio and technical writing practice
+- Open to AI/ML internships, research collaborations, and open-source work in retrieval, evaluation, and agent systems
 
-Python · Java · C++ · TypeScript
-
-Backend
-
-FastAPI · REST APIs · Node.js
-
-AI / ML
-
-Transformers · Sentence Transformers · scikit-learn · spaCy · XGBoost · Whisper · OpenAI APIs
-
-Data
-
-PostgreSQL · Supabase · Redis · MongoDB
-
-Frontend
-
-Next.js · React
-
-Delivery
-
-Docker · GitHub Actions · Linux · Vercel
-
-> projects --selected
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-01 — FrameOS
-
-AI-native media orchestration.
-
-An event-driven platform that connects research, scripting, voice, rendering,
-publishing, analytics, and feedback into one content operation.
-
-Next.js PostgreSQL Redis AI agents Docker
-
-Output: automated media workflow
-
-<br />
-
-<a href="https://github.com/HrshJha/FrameOS">View source →</a>
-
-</td>
-<td width="50%" valign="top">
-
-02 — Hallucination Hunter
-
-Claim-level LLM verification.
-
-Extracts claims, retrieves evidence, applies NLI verification, and produces
-calibrated confidence signals with an explainable verification path.
-
-DeBERTa NLI XGBoost FastAPI Retrieval
-
-Output: verified report
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-03 — Resume Intelligence
-
-Resume analysis for clearer hiring signals.
-
-AI-assisted parsing, ATS scoring, skill extraction, semantic matching, and
-candidate ranking designed around recruiter workflows.
-
-LLM reasoning Semantic search ATS Ranking
-
-Output: candidate insight
-
-</td>
-<td width="50%" valign="top">
-
-04 — AgriMind
-
-Voice-first crop recommendation.
-
-A practical assistant that moves from spoken input to CPU-efficient crop
-guidance for localized decision support.
-
-Whisper Random Forest FastAPI CPU inference
-
-Output: localized recommendation
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-05 — Prompt Police
-
-Prompt security analysis.
-
-A protective layer for detecting prompt injection and unsafe inputs before
-they propagate into downstream application failures.
-
-Prompt firewall Risk analysis Guardrails
-
-Output: actionable security signal
-
-</td>
-<td width="50%" valign="top">
-
-∞ — In the lab
-
-Systems with better failure behavior.
-
-Exploring evaluation architectures, reliable agent workflows, observability,
-distributed execution, and practical MLOps.
-
-Research Prototypes Benchmarks Feedback loops
-
-Status: continuous
-
-</td>
-</tr>
-</table>
-
-> experience --timeline
-
-Year
-
-Role
-
-Focus
-
-2026
-
-DomainLabs · AI/ML Intern
-
-AI safety · evaluation · retrieval · LLM systems
-
-2025
-
-MathonGo · R&D Intern
-
-Physics content systems · structured datasets · AI-assisted QA
-
-> cat philosophy.txt
-
-The model is not the system.
-
-The system includes its inputs, validation, data, queues, retries, timeouts,
-monitoring, security boundaries, and the clarity of its interface.
-
-Good AI engineering makes all of that visible — and makes failure modes
-graceful when the world stops behaving like the demo.
-
-flowchart LR
-  A["Intent"] --> B["Design"] --> C["Build"] --> D["Measure"]
-  D --> E["Learn"] --> F["Improve"] --> C
-  D -. evidence .-> G["Reliable decision"]
-  E -. tradeoffs .-> G
-  F -. resilience .-> G
-
-  classDef phase fill:#0B1228,stroke:#3B4A78,color:#F8FAFC,stroke-width:1px;
-  classDef result fill:#4C1D95,stroke:#00F5A0,color:#FFFFFF,stroke-width:1.5px;
-  class A,B,C,D,E,F phase;
-  class G result;
-
-Principle
-
-Engineering consequence
-
-Verification > confidence
-
-Treat generated output as a hypothesis to test.
-
-Evidence > assumptions
-
-Retrieve, measure, and log the signals that matter.
-
-Systems > demos
-
-Design for retries, queues, failure recovery, and maintainability.
-
-Observability is product work
-
-Make state and behavior understandable in production.
-
-> git activity
+---
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HrshJha&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5A0&icon_color=00D9FF&text_color=FFFFFF&ring_color=7C3AED" alt="GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=HrshJha&hide_border=true&background=050816&ring=00F5A0&fire=00D9FF&currStreakLabel=00F5A0&sideLabels=FFFFFF&dates=A5B4CF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
-
-<br /><br />
-
-<img width="78%" src="https://github-readme-activity-graph.vercel.app/graph?username=HrshJha&bg_color=050816&color=FFFFFF&line=00D9FF&point=00F5A0&area=true&area_color=7C3AED&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" alt="Contribution graph" />
-
-</div>
-
-> contact --open
-
-<div align="center">
-
-<a href="https://github.com/HrshJha"><img src="https://img.shields.io/badge/GITHUB-OPEN-050816?style=for-the-badge&logo=github&logoColor=00F5A0&labelColor=050816&color=00F5A0" alt="GitHub" /></a>
-<a href="https://contactharsh.in"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-050816?style=for-the-badge&logo=vercel&logoColor=00D9FF&labelColor=050816&color=00D9FF" alt="Portfolio" /></a>
-<a href="https://x.com/m_eharsh"><img src="https://img.shields.io/badge/X-CONNECT-050816?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=050816&color=7C3AED" alt="X" /></a>
-
-<br /><br />
-
-<code>BUILDING INTELLIGENCE THAT EARNS TRUST.</code>
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&section=footer&height=90&color=0:050816,55:101C3B,100:7C3AED" alt="Footer" />
+Reach out via [LinkedIn](https://www.linkedin.com/in/hrshjha/) or [X](https://x.com/m_eharsh)
 
 </div>
