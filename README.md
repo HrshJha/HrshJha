@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-hrshjha.vercel.app-050505?style=for-the-badge&labelColor=4FA8E8)](https://hrshjha.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-hrshjha-050505?style=for-the-badge&labelColor=4FA8E8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrshjha/)
-[![X](https://img.shields.io/badge/X-m__eharsh-050505?style=for-the-badge&labelColor=4FA8E8&logo=x&logoColor=white)](https://x.com/m_eharsh)
+
 
 <img src="https://komarev.com/ghpvc/?username=HrshJha&style=for-the-badge&color=4FA8E8&labelColor=050505" alt="profile views"/>
 
